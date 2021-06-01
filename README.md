@@ -1,6 +1,9 @@
 # overthewire
 The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games.
 ### Bandit
+
+https://overthewire.org/wargames/bandit/bandit5.html
+
 <details><summary>Level 0</summary>
 <p>
   
