@@ -77,3 +77,23 @@ bandit3@bandit:~$ cat readme
   
 </p>
 </details>
+
+
+<details><summary>Level 4 → Level 5</summary>
+<p>
+
+  
+```shell
+ssh bandit4@bandit.labs.overthewire.org -p 2220 
+``` 
+```shell
+pIwrPrtPN36QITSp3EQaw936yaFoFgAB
+```
+  
+```console
+bandit4@bandit:~$ cat readme 
+```
+  
+</p>
+</details>
+
