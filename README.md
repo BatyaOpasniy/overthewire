@@ -38,10 +38,6 @@ bandit1@bandit:~$ cat readme
 
 
 
-```console  
-bandit0@bandit:~$ cat readme 
-boJ9jbbUNNfktd78OOpsqOltutMc3MY1
-```
 </p>
 </details>
 
