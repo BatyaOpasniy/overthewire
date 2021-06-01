@@ -35,3 +35,30 @@ bandit1@bandit:~$ cat readme
   
 </p>
 </details>
+
+
+
+```console  
+bandit0@bandit:~$ cat readme 
+boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+```
+</p>
+</details>
+
+<details><summary>Level 2 → Level 3</summary>
+<p>
+
+  
+```shell
+ssh bandit2@bandit.labs.overthewire.org -p 2220 
+``` 
+```shell
+CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
+```
+  
+```console
+bandit2@bandit:~$ cat readme 
+```
+  
+</p>
+</details>
