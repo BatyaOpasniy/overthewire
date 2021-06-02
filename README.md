@@ -164,3 +164,23 @@ bandit6@bandit:/var/lib/dpkg/info$ cat bandit7.password
 </details>
 
 
+
+<details><summary>Level 8 → Level 9</summary>
+<p>
+
+  
+```shell
+ssh bandit8@bandit.labs.overthewire.org -p 2220 
+``` 
+```shell
+cvX2JJa4CFALtqS87jk27qwqGhBM9plV
+```
+  
+```console
+```
+bandit7@bandit:~$ grep -w "millionth" data.txt
+  
+</p>
+</details>
+
+
