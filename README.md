@@ -131,11 +131,13 @@ bandit5@bandit:~$ cat readme
 ssh bandit6@bandit.labs.overthewire.org -p 2220 
 ``` 
 ```shell
-1
+DXjZPULLxYr17uwoI01bNLQbtFemEgo7
+
 ```
   
 ```console
-bandit6@bandit:~$ cat readme 
+bandit5@bandit:~/inhere$ find . -type f -size 1033c ! -executable
+
 ```
   
 </p>
