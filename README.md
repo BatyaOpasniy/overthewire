@@ -177,8 +177,10 @@ cvX2JJa4CFALtqS87jk27qwqGhBM9plV
 ```
   
 ```console
+  
+  bandit7@bandit:~$ grep -w "millionth" data.txt
+
 ```
-bandit7@bandit:~$ grep -w "millionth" data.txt
   
 </p>
 </details>
