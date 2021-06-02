@@ -231,3 +231,29 @@ truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
 
 
 
+
+
+
+<details><summary>Level 11 → Level 12</summary>
+<p>
+
+  
+```shell
+ssh bandit11@bandit.labs.overthewire.org -p 2220 
+  
+``` 
+```shell
+IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
+```
+  
+```console
+  
+bandit10@bandit:~$ base64 -d <<< VGhlIHBhc3N3b3JkIGlzIElGdWt3S0dzRlc4TU9xM0lSRnFyeEUxaHhUTkViVVBSCg==
+
+```
+  
+</p>
+</details>
+
+
+
