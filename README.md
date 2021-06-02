@@ -150,7 +150,7 @@ bandit5@bandit:~/inhere$ find . -type f -size 1033c ! -executable
 
   
 ```shell
-ssh bandit8@bandit.labs.overthewire.org -p 2220 
+ssh bandit7@bandit.labs.overthewire.org -p 2220 
 ``` 
 ```shell
 HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
