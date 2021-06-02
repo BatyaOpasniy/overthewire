@@ -257,3 +257,29 @@ bandit10@bandit:~$ base64 -d <<< VGhlIHBhc3N3b3JkIGlzIElGdWt3S0dzRlc4TU9xM0lSRnF
 
 
 
+
+<details><summary>Level 12 → Level 13</summary>
+<p>
+
+  
+```shell
+ssh bandit12@bandit.labs.overthewire.org -p 2220 
+  
+``` 
+```shell
+5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
+```
+  
+```console
+  
+echo 'Gur cnffjbeq vf 5Gr8L4qetPEsPk8htqjhRK8XSP6x2RHh' | tr 'A-Za-z' 'N-ZA-Mn-za-m'
+
+```
+  
+</p>
+</details>
+
+
+
+
+
