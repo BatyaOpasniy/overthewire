@@ -186,3 +186,52 @@ cvX2JJa4CFALtqS87jk27qwqGhBM9plV
 </details>
 
 
+
+<details><summary>Level 9 → Level 10</summary>
+<p>
+
+  
+```shell
+ssh bandit9@bandit.labs.overthewire.org -p 2220 
+``` 
+```shell
+
+```
+  
+```console
+  
+
+
+<details><summary>Level 8 → Level 9</summary>
+<p>
+
+  
+```shell
+ssh bandit8@bandit.labs.overthewire.org -p 2220 
+``` 
+```shell
+UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
+
+```
+  
+```console
+  
+  bandit7@bandit:~$ grep -w "millionth" data.txt
+
+```
+  
+</p>
+</details>
+
+
+
+
+```
+  
+</p>
+</details>
+
+
+
+
+
