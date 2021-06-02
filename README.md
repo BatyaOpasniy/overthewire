@@ -208,8 +208,9 @@ ssh bandit9@bandit.labs.overthewire.org -p 2220
   
 ```shell
 ssh bandit8@bandit.labs.overthewire.org -p 2220 
-``` 
+
 ```shell
+  
 UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
 
 ```
@@ -228,10 +229,4 @@ UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
 
 ```
   
-</p>
-</details>
-
-
-
-
 
