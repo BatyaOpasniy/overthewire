@@ -206,3 +206,28 @@ bandit8@bandit:~$ sort data.txt | uniq -u
   
 </p>
 </details>
+
+
+
+<details><summary>Level 10 → Level 11</summary>
+<p>
+
+  
+```shell
+ssh bandit10@bandit.labs.overthewire.org -p 2220 
+  
+``` 
+```shell
+truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
+```
+  
+```console
+  
+-------
+```
+  
+</p>
+</details>
+
+
+
