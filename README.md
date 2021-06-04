@@ -296,8 +296,8 @@ ssh bandit13@bandit.labs.overthewire.org -p 2220
 ```
   
 ```console
-  
---------
+  4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e
+
 ```
   
 </p>
@@ -317,7 +317,8 @@ ssh bandit14@bandit.labs.overthewire.org -p 2220
   
 ``` 
 ```shell
-  4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e
+  BfMYroe26WYalil77FoDi9qh59eK5xNr
+
 ```
   
 ```console
@@ -332,6 +333,29 @@ ssh bandit14@bandit.labs.overthewire.org -p 2220
 
 
 
+
+
+
+<details><summary>Level 15 → Level 16</summary>
+<p>
+
+  
+```shell
+ssh bandit14@bandit.labs.overthewire.org -p 2220 
+  
+``` 
+```shell
+  BfMYroe26WYalil77FoDi9qh59eK5xNr
+
+```
+  
+```console
+  
+--------
+```
+  
+</p>
+</details>
 
 
 
