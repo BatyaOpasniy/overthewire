@@ -296,7 +296,7 @@ ssh bandit13@bandit.labs.overthewire.org -p 2220
 ```
   
 ```console
-  4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e
+  ----
 
 ```
   
@@ -317,8 +317,7 @@ ssh bandit14@bandit.labs.overthewire.org -p 2220
   
 ``` 
 ```shell
-  BfMYroe26WYalil77FoDi9qh59eK5xNr
-
+4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e
 ```
   
 ```console
@@ -341,7 +340,7 @@ ssh bandit14@bandit.labs.overthewire.org -p 2220
 
   
 ```shell
-ssh bandit14@bandit.labs.overthewire.org -p 2220 
+ssh bandit15@bandit.labs.overthewire.org -p 2220 
   
 ``` 
 ```shell
