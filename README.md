@@ -335,7 +335,7 @@ ssh bandit14@bandit.labs.overthewire.org -p 2220
 
 
 
-<details><summary>Level 15 → Level 16</summary>
+<details><summary>Level 15</summary>
 <p>
 
   
