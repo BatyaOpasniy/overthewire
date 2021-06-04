@@ -361,5 +361,31 @@ ssh bandit15@bandit.labs.overthewire.org -p 2220
 
 
 
+<details><summary>Level 16</summary>
+<p>
+
+  
+```shell
+ssh bandit16@bandit.labs.overthewire.org -p 2220 
+  
+``` 
+```shell
+  -----
+
+```
+  
+```console
+  
+--------
+```
+  
+</p>
+</details>
+
+
+
+
+
+
 
 
