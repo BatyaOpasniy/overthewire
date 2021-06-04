@@ -283,3 +283,30 @@ echo 'Gur cnffjbeq vf 5Gr8L4qetPEsPk8htqjhRK8XSP6x2RHh' | tr 'A-Za-z' 'N-ZA-Mn-z
 
 
 
+<details><summary>Level 13 → Level 14</summary>
+<p>
+
+  
+```shell
+ssh bandit13@bandit.labs.overthewire.org -p 2220 
+  
+``` 
+```shell
+8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL
+```
+  
+```console
+  
+--------
+```
+  
+</p>
+</details>
+
+
+
+
+
+
+
+
