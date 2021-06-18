@@ -322,7 +322,8 @@ ssh bandit14@bandit.labs.overthewire.org -p 2220
   
 ```console
   
---------
+bandit14@bandit:~$  nc localhost 30000
+4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e
 ```
   
 </p>
